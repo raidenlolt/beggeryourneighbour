@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 51210a0ec134acd4ab6286e31e701048
+  m_SerializeEntries:
+  - m_GUID: a26edd356dc2969448fa951997be3b70
+    m_Address: Textures/playingCards
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cards
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 28614f7d4141ddf44b7cdc52fb518712, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1d0b411bf1dcc5740a51e9dbcd8cf1ec, type: 2}
+    - {fileID: 11400000, guid: b0d20eb396f72d04089df5581a609665, type: 2}
