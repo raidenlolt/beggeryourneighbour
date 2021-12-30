@@ -16,12 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 51210a0ec134acd4ab6286e31e701048
-  m_SerializeEntries:
-  - m_GUID: a26edd356dc2969448fa951997be3b70
-    m_Address: Textures/playingCards
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - cards
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 28614f7d4141ddf44b7cdc52fb518712, type: 2}
   m_SchemaSet:
